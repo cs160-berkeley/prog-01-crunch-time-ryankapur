@@ -1,14 +1,14 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+GTFTW is a basic Android application which allows the user to check how many Calories they are burning in regards to one's body weight and the relevant excerise. The coolest feature is the displayed stats which state the amount of reps/minutes for equivalent caloric throughput so that the user can change up their routine and continue to burn Calories at the same rate.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+*Ryan Kapur* ([eecsmasterrace@berkeley.edu](mailto:eecsmasterrace@berkeley.eduu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [GTFTW] (https://link_to_your_video)
 
 ## Screenshots
 
@@ -16,7 +16,9 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+http://stackoverflow.com/questions/2808535/round-a-double-to-2-decimal-places
+http://www.mkyong.com/android/android-radio-buttons-example/
+sparkpeople.com
+http://stackoverflow.com/questions/15564614/how-to-restart-an-android-application-programmatically
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+
