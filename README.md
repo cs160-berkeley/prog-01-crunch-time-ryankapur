@@ -1,6 +1,6 @@
 # PROG 01: GTFTW
 
-'Get Thin For The Win' is a basic Android application which allows the user to check how many Calories they are burning in regards to one's body weight, the relevant exercise and the relevant amount/type of exercise-units, which are repetitions or minutes. The coolest feature is the contiguously featured stats which state the amount of reps/minutes for equivalent caloric throughput so that the user can change up their routine and continue to burn Calories at the same rate.
+'Get Thin For The Win' is a basic Android application which allows the user to check how many Calories they are burning in regards to one's body weight, the relevant exercise and the relevant amount/type of exercise-units, either repetitions or minutes. The coolest feature is the visualization of contiguously chunked statistics which state the amount of reps/minutes for equivalent caloric throughput so that the user can change up their routine and continue to burn Calories at the same rate or just look at stats for fun!
 
 ## Authors
 
