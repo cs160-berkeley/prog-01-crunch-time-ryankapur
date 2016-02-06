@@ -1,6 +1,6 @@
-# PROG 01: Crunch Time
+# PROG 01: GTFTW
 
-GTFTW is a basic Android application which allows the user to check how many Calories they are burning in regards to one's body weight and the relevant excerise. The coolest feature is the displayed stats which state the amount of reps/minutes for equivalent caloric throughput so that the user can change up their routine and continue to burn Calories at the same rate.
+'Get Thin For The Win' is a basic Android application which allows the user to check how many Calories they are burning in regards to one's body weight and the relevant excerise. The coolest feature is the contiguously featured stats which state the amount of reps/minutes for equivalent caloric throughput so that the user can change up their routine and continue to burn Calories at the same rate.
 
 ## Authors
 
@@ -8,11 +8,12 @@ GTFTW is a basic Android application which allows the user to check how many Cal
 
 ## Demo Video
 
-See [GTFTW] (https://link_to_your_video)
+See [GTFTW] (https://youtu.be/PrFOkoB4CaI)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/main1.png" height="1472" alt="Screenshot1"/>
+
 
 ## Acknowledgments
 
