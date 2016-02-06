@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GTFTW: Get Thin For The Win</string>
+    <string-array name="workout_choices">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-climbing</item>
+    </string-array>
+    <string name="workout_hint">   x</string>
+    <string name="weight_hint">Your weight</string>
+    <string name="converter_button">Convert to Calories!</string>
+    <string name="workout_num">TODO</string>
+    <string name="reps">reps</string>
+    <string name="reset">Reset</string>
+    <string name="min">min</string>
+
+
+
+</resources>

@@ -18,7 +18,7 @@ See [GTFTW] (https://link_to_your_video)
 
 http://stackoverflow.com/questions/2808535/round-a-double-to-2-decimal-places
 http://www.mkyong.com/android/android-radio-buttons-example/
-sparkpeople.com
+http://www.sparkpeople.com/resource/calories_burned_list.asp
 http://stackoverflow.com/questions/15564614/how-to-restart-an-android-application-programmatically
 
 
